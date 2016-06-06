@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.Translucent">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="weather_title">
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">@color/icons</item>
+    </style>
+    <style name="weather_temp">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/icons</item>
+    </style>
+    <style name="weather_weather">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/icons</item>
+    </style>
+
+</resources>

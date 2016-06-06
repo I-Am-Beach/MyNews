@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">我的新闻</string>
+    <string name="action_settings">设置</string>
+
+    <string name="navigation_news">新闻</string>
+    <string name="navigation_images">图片</string>
+    <string name="navigation_weather">天气</string>
+    <string name="navigation_about">关于</string>
+    <string name="name">偶的滑板鞋</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+    <string name="top">头条</string>
+    <string name="nba">NBA</string>
+    <string name="cars">汽车</string>
+    <string name="jokes">笑话</string>
+    <string name="loading">正在加载...</string>
+    <string name="load_data_fail">加载数据失败</string>
+    <string name="ivnews_desc">图片</string>
+    <string name="news_detail">新闻详情</string>
+    <string name="image_load_more">图片的加载更多功能还没有做哦！请等待开发！</string>
+    <string name="load_fail">加载数据失败！</string>
+</resources>
